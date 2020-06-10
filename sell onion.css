@@ -1,0 +1,32 @@
+input{
+  border-radius:5px;
+line-height: 0.7cm;
+width: 200px
+}label{
+  font-size: 20px;
+
+}img{
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+}
+body{
+  margin-left: 400px;
+  background-color:silver;
+  font-family: Sanchez
+}button{
+  margin-left: 300px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 16px 16px;
+  cursor: pointer;
+  background-color: green;
+border-radius: 10px
+}textarea{
+  border-radius: 5px
+}

@@ -1,0 +1,43 @@
+body{
+font-family:  Sanchez;
+background-color: silver
+}
+img{
+  height: 200px;
+  width: 300px;
+  border-radius: 10px;
+  margin-left: 300px
+}
+h1,h2,h4{
+  margin-left: 300px;
+}
+
+.Quantity{
+  margin-left: 300px;
+
+}
+p{
+  margin-left: 300px;
+}
+textarea{
+  margin-left: 300px;
+  border-radius: 5px
+}
+button{
+  margin-left: 300px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  padding: 16px 16px;
+  cursor: pointer;
+  background-color: green;
+border-radius: 10px
+}
+select{
+  width: 100px;
+
+}

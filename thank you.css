@@ -1,0 +1,17 @@
+h1{
+  text-align:center;
+  margin-top: 100px;
+  color:orange;
+  font-size: 80px
+}
+h2{
+    text-align:center;
+    color:orange;
+    font-size: 50px
+}
+body{
+  background-image:url(smile1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
